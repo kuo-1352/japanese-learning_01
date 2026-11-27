@@ -1,0 +1,1799 @@
+{
+  "count": 299,
+  "images": [
+    {
+      "key": "1:0",
+      "file": "./assets/images/vocab/L01_01.jpg",
+      "bytes": 21239,
+      "sha256": "46055d6e98458a4b80c70f76f0c24a833a859837ec89ef963739f78db1078d20"
+    },
+    {
+      "key": "1:1",
+      "file": "./assets/images/vocab/L01_02.jpg",
+      "bytes": 23232,
+      "sha256": "dd8cba20732cf6c4c914777d156f759e00cbd93562b1f37f9b662e232eec2cff"
+    },
+    {
+      "key": "1:2",
+      "file": "./assets/images/vocab/L01_03.jpg",
+      "bytes": 27274,
+      "sha256": "e93b4b796853493246a69bdadefda2c81779b739f77e14dedaf9b4d5a0c9da49"
+    },
+    {
+      "key": "1:3",
+      "file": "./assets/images/vocab/L01_04.jpg",
+      "bytes": 21007,
+      "sha256": "ae51460a490799822e37803a9547574ab42ff98f072990064d84891c5cf5b519"
+    },
+    {
+      "key": "1:4",
+      "file": "./assets/images/vocab/L01_05.jpg",
+      "bytes": 28197,
+      "sha256": "bb014638a37d2f609a137e5ab99f6f7265292bc59154f5793527407076c1a170"
+    },
+    {
+      "key": "1:5",
+      "file": "./assets/images/vocab/L01_06.jpg",
+      "bytes": 32483,
+      "sha256": "499d61fb73e0e0127263645da85095761ef0596d4726b7c08e11b3c8fdd3260c"
+    },
+    {
+      "key": "1:6",
+      "file": "./assets/images/vocab/L01_07.jpg",
+      "bytes": 31803,
+      "sha256": "fa0d25815a68519cea0d63348e5672456f7bdc8839bd235fd5cacbacca421124"
+    },
+    {
+      "key": "1:7",
+      "file": "./assets/images/vocab/L01_08.jpg",
+      "bytes": 26067,
+      "sha256": "a6e247b0d44ea8afc031b17cd3ca173feca67cce6286be9191e9d0cf468f8103"
+    },
+    {
+      "key": "1:8",
+      "file": "./assets/images/vocab/L01_09.jpg",
+      "bytes": 20125,
+      "sha256": "ec3a99d1b12b3e674acfcf369487f54e26516c89f5219645ac0a69d127d50c6b"
+    },
+    {
+      "key": "2:0",
+      "file": "./assets/images/vocab/L02_01.jpg",
+      "bytes": 28282,
+      "sha256": "fe187984de1915c855327704362cee0891299246664fdb5cf4f0e7631457801a"
+    },
+    {
+      "key": "2:1",
+      "file": "./assets/images/vocab/L02_02.jpg",
+      "bytes": 24942,
+      "sha256": "231a4b39706e67c5c25aaeb375af65fc63eda46d61539006ec6f188547b78816"
+    },
+    {
+      "key": "2:2",
+      "file": "./assets/images/vocab/L02_03.jpg",
+      "bytes": 26293,
+      "sha256": "4dff939b9f4b6083123e30408057bb217695edf64e386776c300d81f08ccef52"
+    },
+    {
+      "key": "2:3",
+      "file": "./assets/images/vocab/L02_04.jpg",
+      "bytes": 28145,
+      "sha256": "9e550f0bd16a374f69684a89ca1aa037d552cfd0e767306843908628aacf15df"
+    },
+    {
+      "key": "2:4",
+      "file": "./assets/images/vocab/L02_05.jpg",
+      "bytes": 31465,
+      "sha256": "d007ee72d50d692b28a5ae9f09f7532ec077f1a4df02a7a45c026e4a5c926d4e"
+    },
+    {
+      "key": "2:5",
+      "file": "./assets/images/vocab/L02_06.jpg",
+      "bytes": 19669,
+      "sha256": "e173672b48562e8ae92b1d5e1709215981be4f17539ac36cd6d19d54ff4c2ac4"
+    },
+    {
+      "key": "2:6",
+      "file": "./assets/images/vocab/L02_07.jpg",
+      "bytes": 20661,
+      "sha256": "27f485943632d8f460c937673e46eefa64c1ef55a8ad5642120dd56e05c64615"
+    },
+    {
+      "key": "2:7",
+      "file": "./assets/images/vocab/L02_08.jpg",
+      "bytes": 25880,
+      "sha256": "d1446cb5556b72122baba15d452e843085b498026b238a114172f2c57743122c"
+    },
+    {
+      "key": "2:8",
+      "file": "./assets/images/vocab/L02_09.jpg",
+      "bytes": 27365,
+      "sha256": "45518a0a54289eb1a24b82e3fff4e05fe052c530097697b0b2d0acc73ff23dcf"
+    },
+    {
+      "key": "2:9",
+      "file": "./assets/images/vocab/L02_10.jpg",
+      "bytes": 27219,
+      "sha256": "89c45c71e4a2d96fddbd0eec579e1c6126ecda8c0e5583c6d617901b9f23b28b"
+    },
+    {
+      "key": "3:0",
+      "file": "./assets/images/vocab/L03_01.jpg",
+      "bytes": 28088,
+      "sha256": "4773a52b0195165ec375c84c1dd8ae960078530793d0a179c8ccd996c13c06e2"
+    },
+    {
+      "key": "3:1",
+      "file": "./assets/images/vocab/L03_02.jpg",
+      "bytes": 25871,
+      "sha256": "7a4d50ea691f0854582282cdb9623711bd800ea6cdd07e4f8a19988540d77434"
+    },
+    {
+      "key": "3:2",
+      "file": "./assets/images/vocab/L03_03.jpg",
+      "bytes": 33997,
+      "sha256": "2ce6a422e7db94e38254d48cb6afb571e4a72020b969822e664a5805bf121213"
+    },
+    {
+      "key": "3:3",
+      "file": "./assets/images/vocab/L03_04.jpg",
+      "bytes": 26733,
+      "sha256": "ca806a02985d4e07cf3bb60b2b447a25980c4daca76a8e9e9aec02682ec8081d"
+    },
+    {
+      "key": "3:4",
+      "file": "./assets/images/vocab/L03_05.jpg",
+      "bytes": 36689,
+      "sha256": "ba3a4f05fe457605b9d5c1f6a7fd513c07bdfe56825426b11522020e69f815ec"
+    },
+    {
+      "key": "3:5",
+      "file": "./assets/images/vocab/L03_06.jpg",
+      "bytes": 26325,
+      "sha256": "185764a66c0b70c4f2ebcbeb0428a292b18eba24bcf41973065d43da26dca8de"
+    },
+    {
+      "key": "3:6",
+      "file": "./assets/images/vocab/L03_07.jpg",
+      "bytes": 21599,
+      "sha256": "55790deede055eaa04086e5438721b4494c38e817bc7d6e57ac3c76b27a38fbc"
+    },
+    {
+      "key": "3:7",
+      "file": "./assets/images/vocab/L03_08.jpg",
+      "bytes": 19503,
+      "sha256": "0aefff4ade552972343fa5e4cb0e5692b49fb5a8741630952f79a04db52eb035"
+    },
+    {
+      "key": "3:8",
+      "file": "./assets/images/vocab/L03_09.jpg",
+      "bytes": 20311,
+      "sha256": "2665c9ef9aeec33df8c289378760cc1a515e811db8565f90fda8ba67aa77e548"
+    },
+    {
+      "key": "3:9",
+      "file": "./assets/images/vocab/L03_10.jpg",
+      "bytes": 27008,
+      "sha256": "757d4508d65a2847dc9962b627a93d1db23b049c4b937bde9e6d9b8ff841d101"
+    },
+    {
+      "key": "4:0",
+      "file": "./assets/images/vocab/L04_01.jpg",
+      "bytes": 30803,
+      "sha256": "ec36e3460fb09e9f1e8afa4edbec5948602afa777cab3c9c41f2ba8ec822977c"
+    },
+    {
+      "key": "4:1",
+      "file": "./assets/images/vocab/L04_02.jpg",
+      "bytes": 23716,
+      "sha256": "21c226e3936fb45ff6f3c644ef270ab8a241e9bf2d69af38d65b0236e0e18ca6"
+    },
+    {
+      "key": "4:2",
+      "file": "./assets/images/vocab/L04_03.jpg",
+      "bytes": 23587,
+      "sha256": "97f60dc99654bed036e9bcc5b731f569f9cc1300d53986a76188d1f5cb1abe1b"
+    },
+    {
+      "key": "4:3",
+      "file": "./assets/images/vocab/L04_04.jpg",
+      "bytes": 26239,
+      "sha256": "7f20f53eefeaeb13019f2d93643181a9710d895baed3c8d50a8a213030d3bb02"
+    },
+    {
+      "key": "4:4",
+      "file": "./assets/images/vocab/L04_05.jpg",
+      "bytes": 24741,
+      "sha256": "2e1a193622f58a13404b65bfe25d0aa60006245d0c045311e1067886bda55579"
+    },
+    {
+      "key": "4:5",
+      "file": "./assets/images/vocab/L04_06.jpg",
+      "bytes": 28419,
+      "sha256": "1d40c6b47644013c5dc2f60604e7485c47cc6faf8fe21612d2fc5c16427d1d2e"
+    },
+    {
+      "key": "4:6",
+      "file": "./assets/images/vocab/L04_07.jpg",
+      "bytes": 19104,
+      "sha256": "fb287397ebe9da7821ac9515d6f6ccf9521cf6c099fe597fc82ef4e7e24eb988"
+    },
+    {
+      "key": "4:7",
+      "file": "./assets/images/vocab/L04_08.jpg",
+      "bytes": 26908,
+      "sha256": "609fbe4622654b40791d53ae15a2d7ed10075e4f2d6606488f68368756907a0d"
+    },
+    {
+      "key": "4:8",
+      "file": "./assets/images/vocab/L04_09.jpg",
+      "bytes": 34287,
+      "sha256": "fb66b881eb422fef1e98d086a2799c2565e82f7f0ab40d2916414eca8989640a"
+    },
+    {
+      "key": "4:9",
+      "file": "./assets/images/vocab/L04_10.jpg",
+      "bytes": 28941,
+      "sha256": "34acf1b67c9bb153ccc502cb56965dd9d2f968c7e00d0681600896a61439c1e9"
+    },
+    {
+      "key": "5:0",
+      "file": "./assets/images/vocab/L05_01.jpg",
+      "bytes": 33741,
+      "sha256": "e4eada87636a7f6199d8305b73d92b8e92618522c558eddc5f504bc8634605c1"
+    },
+    {
+      "key": "5:1",
+      "file": "./assets/images/vocab/L05_02.jpg",
+      "bytes": 29056,
+      "sha256": "1846eb0039ab262cc3e700cbaabb86df2b2578cf3652b88ea881c4fd74f1fcaa"
+    },
+    {
+      "key": "5:2",
+      "file": "./assets/images/vocab/L05_03.jpg",
+      "bytes": 25504,
+      "sha256": "7aa8d1c339ee1d3c107e97565f18f35c54f500c7eda9f3e0f2e4b353f8ebc733"
+    },
+    {
+      "key": "5:3",
+      "file": "./assets/images/vocab/L05_04.jpg",
+      "bytes": 32156,
+      "sha256": "686a54b44ded9f9cda9f9fd60c5eb916dc2a7ad6f8f69a82976ba1800b5993bd"
+    },
+    {
+      "key": "5:4",
+      "file": "./assets/images/vocab/L05_05.jpg",
+      "bytes": 35909,
+      "sha256": "53bd6ecd0a15f507c6ef50079a0dfb7a69f890f5f514ba14991c64d1a4a11382"
+    },
+    {
+      "key": "5:5",
+      "file": "./assets/images/vocab/L05_06.jpg",
+      "bytes": 32705,
+      "sha256": "ee890e04b320f0fd76caae2fb04637036b66c6025fc4be3bdc12b8a3859e34a3"
+    },
+    {
+      "key": "5:6",
+      "file": "./assets/images/vocab/L05_07.jpg",
+      "bytes": 38461,
+      "sha256": "8b63bbfddd063fa8deb24f07bdc23b000c8eeee282a630d969ba278f5f55da05"
+    },
+    {
+      "key": "5:7",
+      "file": "./assets/images/vocab/L05_08.jpg",
+      "bytes": 31764,
+      "sha256": "f0a2445b0074511a600b2d48cf43921f252c06e2abd926a9f1f4d32a4973d847"
+    },
+    {
+      "key": "5:8",
+      "file": "./assets/images/vocab/L05_09.jpg",
+      "bytes": 26065,
+      "sha256": "bed37c633ebd327a0d83e6339f868c92fc3c8b13ae3646014169f9b0880b7233"
+    },
+    {
+      "key": "5:9",
+      "file": "./assets/images/vocab/L05_10.jpg",
+      "bytes": 26473,
+      "sha256": "adbbd52b4668a96c150d829e91023a403009ef4021c9a8193f109728ca752bf7"
+    },
+    {
+      "key": "6:0",
+      "file": "./assets/images/vocab/L06_01.jpg",
+      "bytes": 34130,
+      "sha256": "eeb96699be0063944037e9af573b2ef6a0fa16103ef7a12aaccfd638597d0bbc"
+    },
+    {
+      "key": "6:1",
+      "file": "./assets/images/vocab/L06_02.jpg",
+      "bytes": 19751,
+      "sha256": "8df02bc4f2149ea227f39835e6e0449bb674c37c3d01e7771861194f4b8e87ca"
+    },
+    {
+      "key": "6:2",
+      "file": "./assets/images/vocab/L06_03.jpg",
+      "bytes": 30773,
+      "sha256": "260b3f5a2fa52ea9b0e614d1730175f515f8acab4ff351d8f0b0eae243d5a586"
+    },
+    {
+      "key": "6:3",
+      "file": "./assets/images/vocab/L06_04.jpg",
+      "bytes": 42513,
+      "sha256": "cc8a3adc83d52b437a1a2c25d056a2ad73355f4257071081d7946f0b283f8b9e"
+    },
+    {
+      "key": "6:4",
+      "file": "./assets/images/vocab/L06_05.jpg",
+      "bytes": 28829,
+      "sha256": "584749dcbdfc73432e61781abbaea37216b4f7e766c1702b38c49f048c60a2fa"
+    },
+    {
+      "key": "6:5",
+      "file": "./assets/images/vocab/L06_06.jpg",
+      "bytes": 25512,
+      "sha256": "bdbd785d5bc8b6da451f357188e01882615b1e4e586ff880a369f63dbb4d24e3"
+    },
+    {
+      "key": "6:6",
+      "file": "./assets/images/vocab/L06_07.jpg",
+      "bytes": 29929,
+      "sha256": "f5226f3086a7e09892a590bb6ddc1ce0358bddd019c063a2226e1881dec98e2f"
+    },
+    {
+      "key": "6:7",
+      "file": "./assets/images/vocab/L06_08.jpg",
+      "bytes": 26677,
+      "sha256": "323c7f188cc316d0c7dca3a105e56e4d68c0ccd1eab84dc1f3a6f97944136847"
+    },
+    {
+      "key": "6:8",
+      "file": "./assets/images/vocab/L06_09.jpg",
+      "bytes": 28542,
+      "sha256": "267cb83dec233d85a6d7bfddfd968693f1744160c0cbd50078c5f6c67432fd8b"
+    },
+    {
+      "key": "6:9",
+      "file": "./assets/images/vocab/L06_10.jpg",
+      "bytes": 36706,
+      "sha256": "278cf2bba96cdd9e13def145146105e9662f6d7a78f05878f34a7c7cafd0bce3"
+    },
+    {
+      "key": "7:0",
+      "file": "./assets/images/vocab/L07_01.jpg",
+      "bytes": 29291,
+      "sha256": "32d3324efd2e7abb288d1fe5fd1d8e38668333efb7b929d9207cd4c2ba272a62"
+    },
+    {
+      "key": "7:1",
+      "file": "./assets/images/vocab/L07_02.jpg",
+      "bytes": 24415,
+      "sha256": "6f865052a962317900f9d5ebf255e93e686d09467bb5a4d9e823c2334f6a1e73"
+    },
+    {
+      "key": "7:2",
+      "file": "./assets/images/vocab/L07_03.jpg",
+      "bytes": 25717,
+      "sha256": "a3ef9531c18c5d491639a88ce35dec15983c43ba890f73cc71316fd5e20dd00d"
+    },
+    {
+      "key": "7:3",
+      "file": "./assets/images/vocab/L07_04.jpg",
+      "bytes": 25292,
+      "sha256": "09006fc5eb390af5fde9846825eed05ffd1385a2cf27fbf7cc201dc683056416"
+    },
+    {
+      "key": "7:4",
+      "file": "./assets/images/vocab/L07_05.jpg",
+      "bytes": 21868,
+      "sha256": "18168514bc48e244224dc67d5f4078741e6e29d4a387028b0fb98df3734c7467"
+    },
+    {
+      "key": "7:5",
+      "file": "./assets/images/vocab/L07_06.jpg",
+      "bytes": 21425,
+      "sha256": "6788e09b5e9afe3ba3885318e68f4895fc2e89d50b07d31597fcb85ac8269aeb"
+    },
+    {
+      "key": "7:6",
+      "file": "./assets/images/vocab/L07_07.jpg",
+      "bytes": 34148,
+      "sha256": "8421263661ba3c3e6ab90bed3b9ea6452f4175dd32cfa0c04d649fbf1c2850d9"
+    },
+    {
+      "key": "7:7",
+      "file": "./assets/images/vocab/L07_08.jpg",
+      "bytes": 16924,
+      "sha256": "9d6fb4c671fea530d0eaa6154e4c6c8be9a1f35d1349e348eda564ea8319ba13"
+    },
+    {
+      "key": "7:8",
+      "file": "./assets/images/vocab/L07_09.jpg",
+      "bytes": 31749,
+      "sha256": "adb66180478527da1f8bf274d119b96553ad8c4198c8d5bc256604d51cbbe43d"
+    },
+    {
+      "key": "7:9",
+      "file": "./assets/images/vocab/L07_10.jpg",
+      "bytes": 26395,
+      "sha256": "d7c0ec04d4f1e038e95e027a4ea2648438fb6742d5c2d56f5fca8ff0e5bb2b60"
+    },
+    {
+      "key": "8:0",
+      "file": "./assets/images/vocab/L08_01.jpg",
+      "bytes": 26288,
+      "sha256": "57a1713539bd48ed53667726414af0af5350a2ba050e9503f1270c955773a656"
+    },
+    {
+      "key": "8:1",
+      "file": "./assets/images/vocab/L08_02.jpg",
+      "bytes": 25648,
+      "sha256": "bfe8cfb8554352448869ed349190221b54bf224363f6c143b1a3dddfe615c281"
+    },
+    {
+      "key": "8:2",
+      "file": "./assets/images/vocab/L08_03.jpg",
+      "bytes": 23938,
+      "sha256": "74d78c0cb1716c6c8fde5ecb6918b1d3356112f63bcbfa7ac56f9a5acb6440ba"
+    },
+    {
+      "key": "8:3",
+      "file": "./assets/images/vocab/L08_04.jpg",
+      "bytes": 23488,
+      "sha256": "fc41092164273cca61d6f716a9e0687588c8fc072b8d3ac7f3f42273984eb415"
+    },
+    {
+      "key": "8:4",
+      "file": "./assets/images/vocab/L08_05.jpg",
+      "bytes": 23213,
+      "sha256": "f5a2d510968450628ecbd88d53981d66ad14cd3174a9c6d43268f887892d110a"
+    },
+    {
+      "key": "8:5",
+      "file": "./assets/images/vocab/L08_06.jpg",
+      "bytes": 24157,
+      "sha256": "09d27997d716e15f0436e7f859e0f621e2d5c847fbd34d54fcbe10bd352a2917"
+    },
+    {
+      "key": "8:6",
+      "file": "./assets/images/vocab/L08_07.jpg",
+      "bytes": 29374,
+      "sha256": "14e47e2f5d75289921e460042f8768edf5fbd438911a4386f81f9dd58edda12a"
+    },
+    {
+      "key": "8:7",
+      "file": "./assets/images/vocab/L08_08.jpg",
+      "bytes": 19881,
+      "sha256": "eb61bb01c6679c8124599c48f368b09433b6c0a971fe76839e6c17204d08ea57"
+    },
+    {
+      "key": "8:8",
+      "file": "./assets/images/vocab/L08_09.jpg",
+      "bytes": 24382,
+      "sha256": "590d245648a336b539e1da7c591f992f96c4003338d3cd952e5e71373f09ebfe"
+    },
+    {
+      "key": "8:9",
+      "file": "./assets/images/vocab/L08_10.jpg",
+      "bytes": 25102,
+      "sha256": "a98baa9d0b82a79557d833cede71f3983be6157a96f068d38dd74ba8295bd7c6"
+    },
+    {
+      "key": "9:0",
+      "file": "./assets/images/vocab/L09_01.jpg",
+      "bytes": 29907,
+      "sha256": "33ff88bb4a87d9c88cde05ad93fdb02e249ef2ed685f56af20abce7003bdafd3"
+    },
+    {
+      "key": "9:1",
+      "file": "./assets/images/vocab/L09_02.jpg",
+      "bytes": 29447,
+      "sha256": "3d31f29dfb00606309d6859911e8d711482e3335a9194a7326018f6567f45c66"
+    },
+    {
+      "key": "9:2",
+      "file": "./assets/images/vocab/L09_03.jpg",
+      "bytes": 39438,
+      "sha256": "157a89aedea56952e10afda7aa65906769b2b37f7ad7c3555a841178722c0e12"
+    },
+    {
+      "key": "9:3",
+      "file": "./assets/images/vocab/L09_04.jpg",
+      "bytes": 28128,
+      "sha256": "5131c8dc175bf5b580369765e50863825acb8d8cb5e12e49e93f16c01abd9d49"
+    },
+    {
+      "key": "9:4",
+      "file": "./assets/images/vocab/L09_05.jpg",
+      "bytes": 16753,
+      "sha256": "865777791c8771d83c4bdc08352afeac8ec49d682272bd4f081aa230ab93d3cb"
+    },
+    {
+      "key": "9:5",
+      "file": "./assets/images/vocab/L09_06.jpg",
+      "bytes": 18420,
+      "sha256": "1f7c41a3a908566d8ab8f882f72b27738eabec4d875731969623f5f7d8af6654"
+    },
+    {
+      "key": "9:6",
+      "file": "./assets/images/vocab/L09_07.jpg",
+      "bytes": 22890,
+      "sha256": "802f8252d924f7e1299d24c219806a1696d2e033b2238106a4f3bca09fb49c5a"
+    },
+    {
+      "key": "9:7",
+      "file": "./assets/images/vocab/L09_08.jpg",
+      "bytes": 28863,
+      "sha256": "fa509936327bdeaaf3364ee6602caa791a85914788063d0bc6105ce602e5a89d"
+    },
+    {
+      "key": "9:8",
+      "file": "./assets/images/vocab/L09_09.jpg",
+      "bytes": 33350,
+      "sha256": "d16f97bbde37a816aed5ebe3d963dd972629ce55b49607007c6522a17231564b"
+    },
+    {
+      "key": "9:9",
+      "file": "./assets/images/vocab/L09_10.jpg",
+      "bytes": 42177,
+      "sha256": "77d1e83d9eae701f811f4cafd9de9618f9d20a0434e9e7247b2278d51bed2eb7"
+    },
+    {
+      "key": "10:0",
+      "file": "./assets/images/vocab/L10_01.jpg",
+      "bytes": 30142,
+      "sha256": "60ef1797c44b74cd0f15c071b8e98941aac3a009addb127b67cc2033de627f4a"
+    },
+    {
+      "key": "10:1",
+      "file": "./assets/images/vocab/L10_02.jpg",
+      "bytes": 25656,
+      "sha256": "b5de3c37278bb91b11df5abd99c04f6f471a97ae34e93faa7559a17f9f7c2132"
+    },
+    {
+      "key": "10:2",
+      "file": "./assets/images/vocab/L10_03.jpg",
+      "bytes": 25133,
+      "sha256": "6ad5f2143c8e5930e4297de7a7c769bc5bd4c2c84c54aca397fd462a3322893a"
+    },
+    {
+      "key": "10:3",
+      "file": "./assets/images/vocab/L10_04.jpg",
+      "bytes": 29489,
+      "sha256": "d055f4adf2cfe66e9e65332d2260cbd0aa2c79f01b00bfa8d913b343711b7f5a"
+    },
+    {
+      "key": "10:4",
+      "file": "./assets/images/vocab/L10_05.jpg",
+      "bytes": 36161,
+      "sha256": "6897eb74e568dd68720df2ac812e50517b12eceeaff59adc1555180a0c6195a5"
+    },
+    {
+      "key": "10:5",
+      "file": "./assets/images/vocab/L10_06.jpg",
+      "bytes": 41309,
+      "sha256": "61d9af57b7b45fb1afaa216117bee447ad26a681e30ff7fb49459da6b048624b"
+    },
+    {
+      "key": "10:6",
+      "file": "./assets/images/vocab/L10_07.jpg",
+      "bytes": 36920,
+      "sha256": "de0b3b4529086b2893d9e1bf9106b5679d582a51a3fddd39ceb62e3c6f794083"
+    },
+    {
+      "key": "10:7",
+      "file": "./assets/images/vocab/L10_08.jpg",
+      "bytes": 21032,
+      "sha256": "65ee16fb7e0e260872263755bff17a1fd74ef65ca079e93231b19bbdf71c3a41"
+    },
+    {
+      "key": "10:8",
+      "file": "./assets/images/vocab/L10_09.jpg",
+      "bytes": 25265,
+      "sha256": "52aaac2f9d0a7b4e7f8118d8742560bf3d85144fb4bf88e0fa3bf61895705f75"
+    },
+    {
+      "key": "10:9",
+      "file": "./assets/images/vocab/L10_10.jpg",
+      "bytes": 24627,
+      "sha256": "11d3d978793643bf703e6f6dda1a3b2f40d529563fe72754945c12cbc3f9f802"
+    },
+    {
+      "key": "11:0",
+      "file": "./assets/images/vocab/L11_01.jpg",
+      "bytes": 24051,
+      "sha256": "3eab1ce752bb9fa63be3496867dfe6db5a99d83d2d046ca9c2457179e5ba2cb8"
+    },
+    {
+      "key": "11:1",
+      "file": "./assets/images/vocab/L11_02.jpg",
+      "bytes": 27454,
+      "sha256": "d565fd333c61f8330cd1460272abd764d5b796c7e30e6d29d7cd8d56888c9b49"
+    },
+    {
+      "key": "11:2",
+      "file": "./assets/images/vocab/L11_03.jpg",
+      "bytes": 23382,
+      "sha256": "c0b32d47cc1a5644b681243af7de83fa32eda794a7f62506613d6f6265fe278d"
+    },
+    {
+      "key": "11:3",
+      "file": "./assets/images/vocab/L11_04.jpg",
+      "bytes": 29337,
+      "sha256": "b15d1fe498b6eda09ecaa03787d38bc5ab59a4c38debeb58089ffdbb50755465"
+    },
+    {
+      "key": "11:4",
+      "file": "./assets/images/vocab/L11_05.jpg",
+      "bytes": 31014,
+      "sha256": "385f7eb97ff06caed8b82426cef0a9eb9ef5119793236244fb88a5d3b28f087d"
+    },
+    {
+      "key": "11:5",
+      "file": "./assets/images/vocab/L11_06.jpg",
+      "bytes": 18383,
+      "sha256": "aa2958e22a0028bc4a3588bc3652fe6b6d13a243c42c9e4c5d20426b657bee1b"
+    },
+    {
+      "key": "11:6",
+      "file": "./assets/images/vocab/L11_07.jpg",
+      "bytes": 24626,
+      "sha256": "f3b4b3c092922e09e05e0dd2daed4b015cc23878bc4aa65295631edd2988302c"
+    },
+    {
+      "key": "11:7",
+      "file": "./assets/images/vocab/L11_08.jpg",
+      "bytes": 27149,
+      "sha256": "4ece4675c1f5c3b28b899f405129d1c0aca24c3ae675b5eb66c0b7280f3a18cb"
+    },
+    {
+      "key": "11:8",
+      "file": "./assets/images/vocab/L11_09.jpg",
+      "bytes": 23843,
+      "sha256": "d95252a2903dcea69daf54b0a2a23d2f83b06541ef74f9d11be2ac8b2b6aa6f0"
+    },
+    {
+      "key": "11:9",
+      "file": "./assets/images/vocab/L11_10.jpg",
+      "bytes": 31985,
+      "sha256": "7175d6f6069b92eba3a7e602e84386fbaa2d13cf5cc5c2a5baf98ccb48a32ee4"
+    },
+    {
+      "key": "12:0",
+      "file": "./assets/images/vocab/L12_01.jpg",
+      "bytes": 24328,
+      "sha256": "52fbae398a373279a036ed66d797a4afc35c81b12851a0c801f38c0a745dab1f"
+    },
+    {
+      "key": "12:1",
+      "file": "./assets/images/vocab/L12_02.jpg",
+      "bytes": 28114,
+      "sha256": "e7e7127a5e9fae5bd84c696e85a182e9646be897c7e951b2b58481e1ced8c6a8"
+    },
+    {
+      "key": "12:2",
+      "file": "./assets/images/vocab/L12_03.jpg",
+      "bytes": 23286,
+      "sha256": "f1ffaf9a3a8dda7ab35f3cbf6ec9799c388c0bf711e61a7c5f0b8ff127396213"
+    },
+    {
+      "key": "12:3",
+      "file": "./assets/images/vocab/L12_04.jpg",
+      "bytes": 37315,
+      "sha256": "6b402689ef94a80b15e2ca7ea93117f13aa981efda48a89db34942d1213a6df0"
+    },
+    {
+      "key": "12:4",
+      "file": "./assets/images/vocab/L12_05.jpg",
+      "bytes": 29391,
+      "sha256": "75304cad9e62a270877319b8e61e6d9cd7d55c56719ab3544b717320f52dc1ee"
+    },
+    {
+      "key": "12:5",
+      "file": "./assets/images/vocab/L12_06.jpg",
+      "bytes": 25110,
+      "sha256": "04280db418d70fdef9c9f0f69e95929d1775c36c8c61eb86e4a3cb1a3d59c2a7"
+    },
+    {
+      "key": "12:6",
+      "file": "./assets/images/vocab/L12_07.jpg",
+      "bytes": 21667,
+      "sha256": "1db7dd816431bb278344dccba9baf8d2e4912d4280e4eee275643c0c88d73116"
+    },
+    {
+      "key": "12:7",
+      "file": "./assets/images/vocab/L12_08.jpg",
+      "bytes": 34117,
+      "sha256": "fb6f2275dffe8c647037296612687960a23222d1b73d3bfa64fe77952fef2fc3"
+    },
+    {
+      "key": "12:8",
+      "file": "./assets/images/vocab/L12_09.jpg",
+      "bytes": 35392,
+      "sha256": "09e9e0be1f761db7a46014feb0169c875f512e7620f424bc5669bed7c27b08cb"
+    },
+    {
+      "key": "12:9",
+      "file": "./assets/images/vocab/L12_10.jpg",
+      "bytes": 23132,
+      "sha256": "82b76936d2ff08cff325a89496358cc79b69a8e300209af640bd53db3dec3473"
+    },
+    {
+      "key": "13:0",
+      "file": "./assets/images/vocab/L13_01.jpg",
+      "bytes": 24979,
+      "sha256": "3de16e52d6bb4fe52c75773d1370db09654140d55a24ac78733c481340a93599"
+    },
+    {
+      "key": "13:1",
+      "file": "./assets/images/vocab/L13_02.jpg",
+      "bytes": 28249,
+      "sha256": "649ae5327238e83b6a88d1690dd83fe656bf59cdcc8c3d00bcb2ab27bcdc4de0"
+    },
+    {
+      "key": "13:2",
+      "file": "./assets/images/vocab/L13_03.jpg",
+      "bytes": 18938,
+      "sha256": "19725a85de22066f284b51d55b973f9ecfdfb4010f88ccaed18495c99c493714"
+    },
+    {
+      "key": "13:3",
+      "file": "./assets/images/vocab/L13_04.jpg",
+      "bytes": 21630,
+      "sha256": "f12f572b87bc08228febce1239298c538bc58c5f418eedcd126de508b232c520"
+    },
+    {
+      "key": "13:4",
+      "file": "./assets/images/vocab/L13_05.jpg",
+      "bytes": 24133,
+      "sha256": "4d2485ce498788ed62ab7c7220bed89854b317a68e1362f545af1409dd023b4b"
+    },
+    {
+      "key": "13:5",
+      "file": "./assets/images/vocab/L13_06.jpg",
+      "bytes": 29306,
+      "sha256": "343ae277f3110c5a5a1b432c056e8ec168f853dc5fde35697e608822cadbc251"
+    },
+    {
+      "key": "13:6",
+      "file": "./assets/images/vocab/L13_07.jpg",
+      "bytes": 14068,
+      "sha256": "553af8f6ec7405089650c74062abf136ff3faa369d8eb479498f3c732d1b1e40"
+    },
+    {
+      "key": "13:7",
+      "file": "./assets/images/vocab/L13_08.jpg",
+      "bytes": 16250,
+      "sha256": "e12323cf18f66895db40eb219d0699115f51dfe7e2623498daa0884076351a23"
+    },
+    {
+      "key": "13:8",
+      "file": "./assets/images/vocab/L13_09.jpg",
+      "bytes": 28575,
+      "sha256": "9909dd236c956334983ed3fadd0272ab469a9588b3663cf780eb341bd45e3f7e"
+    },
+    {
+      "key": "13:9",
+      "file": "./assets/images/vocab/L13_10.jpg",
+      "bytes": 23988,
+      "sha256": "8c4bc3b76be5fa246ecf591a9e2fcd048773fae3c92a85134bf181dda11adb47"
+    },
+    {
+      "key": "14:0",
+      "file": "./assets/images/vocab/L14_01.jpg",
+      "bytes": 26935,
+      "sha256": "95d77dba2174ba07b6690f0ce876491ea3bc14b2c045b3b31ebd45b1d317d238"
+    },
+    {
+      "key": "14:1",
+      "file": "./assets/images/vocab/L14_02.jpg",
+      "bytes": 24647,
+      "sha256": "9a9ac90767af419a16c982e7acddf79edf6265263632d0b422583f3ef238776c"
+    },
+    {
+      "key": "14:2",
+      "file": "./assets/images/vocab/L14_03.jpg",
+      "bytes": 24615,
+      "sha256": "3543371ff97101de5585868734ccc7d6556c8ee58a0b7ae3fac31081d2f75afd"
+    },
+    {
+      "key": "14:3",
+      "file": "./assets/images/vocab/L14_04.jpg",
+      "bytes": 29438,
+      "sha256": "9e323e3b5e19a0a287046113245679b77388a794002cbc085d77872fe53b0f78"
+    },
+    {
+      "key": "14:4",
+      "file": "./assets/images/vocab/L14_05.jpg",
+      "bytes": 25137,
+      "sha256": "c6aef604879602fc9465c17b0c309cd9f0bc18edb14a272b8bb679eeca56b353"
+    },
+    {
+      "key": "14:5",
+      "file": "./assets/images/vocab/L14_06.jpg",
+      "bytes": 26156,
+      "sha256": "0f5f8f4a9769359a8067de6a12c973bb93f4455d8909e1302faf685c8dddc786"
+    },
+    {
+      "key": "14:6",
+      "file": "./assets/images/vocab/L14_07.jpg",
+      "bytes": 24763,
+      "sha256": "a67bae378e013cee4de9c88e7427da0f77712d4a2449be7367966644929d6f23"
+    },
+    {
+      "key": "14:7",
+      "file": "./assets/images/vocab/L14_08.jpg",
+      "bytes": 21448,
+      "sha256": "f797e40ff8ee6a9afc82ac10a9533f7fdd30d1d8dad8712540ce14effcbc4048"
+    },
+    {
+      "key": "14:8",
+      "file": "./assets/images/vocab/L14_09.jpg",
+      "bytes": 21621,
+      "sha256": "dcd6bcbdfe6e06316bc895e92ab2f4d7dd8c96034f51735bd37c39bd91963125"
+    },
+    {
+      "key": "14:9",
+      "file": "./assets/images/vocab/L14_10.jpg",
+      "bytes": 27330,
+      "sha256": "7b64d4cc36a336477015f996b8a7fb20d5798f7677fa478a6f3ef6c6c15b5399"
+    },
+    {
+      "key": "15:0",
+      "file": "./assets/images/vocab/L15_01.jpg",
+      "bytes": 26297,
+      "sha256": "514571132b630d21bff3d19b77b4b46b98269f1aa13e87a6884625f487297691"
+    },
+    {
+      "key": "15:1",
+      "file": "./assets/images/vocab/L15_02.jpg",
+      "bytes": 30357,
+      "sha256": "1cd43a2ce5b6dd6d6ffab96257374b34fa47efc2b9913a693c50c541ae6654ed"
+    },
+    {
+      "key": "15:2",
+      "file": "./assets/images/vocab/L15_03.jpg",
+      "bytes": 27614,
+      "sha256": "135b8b13e1c616d56def5d8f9d2bd231508e4fa9ad18c49b94bd99bfcf869250"
+    },
+    {
+      "key": "15:3",
+      "file": "./assets/images/vocab/L15_04.jpg",
+      "bytes": 26809,
+      "sha256": "6c338f24c2de29480aa0cdfd21118a6815e45e0db2f0c8430edbbd24a6f47488"
+    },
+    {
+      "key": "15:4",
+      "file": "./assets/images/vocab/L15_05.jpg",
+      "bytes": 21651,
+      "sha256": "e0d42aaafbe2ba386d718c8659d20d22d7ee7ebb640d6926ce32ac0cec063023"
+    },
+    {
+      "key": "15:5",
+      "file": "./assets/images/vocab/L15_06.jpg",
+      "bytes": 23845,
+      "sha256": "28a8830e9f4dcf2b5cc72cb1791500d5e0dfbe31fdf54431dc15eb755d2ca2f9"
+    },
+    {
+      "key": "15:6",
+      "file": "./assets/images/vocab/L15_07.jpg",
+      "bytes": 27446,
+      "sha256": "97173331b8bb9418f1fe4c459e21036e7519c4da40deeb79ef085cc7877ccd76"
+    },
+    {
+      "key": "15:7",
+      "file": "./assets/images/vocab/L15_08.jpg",
+      "bytes": 24987,
+      "sha256": "4b965d7578a09159f70cb55bfa0ed519bc039c183a8947f5c92935a454c0789f"
+    },
+    {
+      "key": "15:8",
+      "file": "./assets/images/vocab/L15_09.jpg",
+      "bytes": 27691,
+      "sha256": "23643ef97bc8fe566a87b56ae46cd58a1fbbc01deef67aa27eb9b9c417f711d6"
+    },
+    {
+      "key": "15:9",
+      "file": "./assets/images/vocab/L15_10.jpg",
+      "bytes": 29224,
+      "sha256": "5baf487ebd21dfac41c58cab31b971a035adcd9d97c9503c8c3e8797bb0c7e13"
+    },
+    {
+      "key": "16:0",
+      "file": "./assets/images/vocab/L16_01.jpg",
+      "bytes": 32253,
+      "sha256": "fa86f08c8cb321c1305cab48cf520eafa9940b2372b16fd743d11f65a51c7b2a"
+    },
+    {
+      "key": "16:1",
+      "file": "./assets/images/vocab/L16_02.jpg",
+      "bytes": 29806,
+      "sha256": "4574ffe3076f2b9834fdbf0588917870c3ca518fa82f9b9add64d32d965891c0"
+    },
+    {
+      "key": "16:2",
+      "file": "./assets/images/vocab/L16_03.jpg",
+      "bytes": 26252,
+      "sha256": "c86f758ed66da82dc4d31c98df364a50fd2de2c34d878d51628a3ad40aebf520"
+    },
+    {
+      "key": "16:3",
+      "file": "./assets/images/vocab/L16_04.jpg",
+      "bytes": 32900,
+      "sha256": "39f84c35be8daedcd6649be45308eed60e1a73904f78aa24cd8d7727bcb5c38b"
+    },
+    {
+      "key": "16:4",
+      "file": "./assets/images/vocab/L16_05.jpg",
+      "bytes": 31738,
+      "sha256": "8cba5aa556c0c61ec7280fba84da1578979ef46d9fba5f945382ec36fe3b4248"
+    },
+    {
+      "key": "16:5",
+      "file": "./assets/images/vocab/L16_06.jpg",
+      "bytes": 33865,
+      "sha256": "405bb8747abb5a50fb6f1cdd0b69219a693eac5481db0136a989f774c0bdd86f"
+    },
+    {
+      "key": "16:6",
+      "file": "./assets/images/vocab/L16_07.jpg",
+      "bytes": 28887,
+      "sha256": "4b35194903d8e6160ac6a13f53a1ba797780b1ed6cc6ba6c0cd1f3abdd1997be"
+    },
+    {
+      "key": "16:7",
+      "file": "./assets/images/vocab/L16_08.jpg",
+      "bytes": 31312,
+      "sha256": "e3c21f15688e5d76ef04bea891252717b12c915df30dd36b8c9c7b773de93651"
+    },
+    {
+      "key": "16:8",
+      "file": "./assets/images/vocab/L16_09.jpg",
+      "bytes": 25953,
+      "sha256": "f15a37d799d0af73ee8f1a32b7c56096c16328383e24aca0441af1defdd84b08"
+    },
+    {
+      "key": "16:9",
+      "file": "./assets/images/vocab/L16_10.jpg",
+      "bytes": 31082,
+      "sha256": "acdf30b7b025aaa55695de695112a1908596d97d4dc41787a3b5b40eb0e121c0"
+    },
+    {
+      "key": "17:0",
+      "file": "./assets/images/vocab/L17_01.jpg",
+      "bytes": 31652,
+      "sha256": "73b5ea3ea773714c499564522b745479991fcdfda8f1e79bd35ee35c6a394c8b"
+    },
+    {
+      "key": "17:1",
+      "file": "./assets/images/vocab/L17_02.jpg",
+      "bytes": 28516,
+      "sha256": "de3696f795d85b90d1cf500dba901604171895f1408e23765dc30edac04f38eb"
+    },
+    {
+      "key": "17:2",
+      "file": "./assets/images/vocab/L17_03.jpg",
+      "bytes": 22627,
+      "sha256": "9e1cca4add74f06ec8a24c98a2fbebc9df8526c179c7ab307c4a81d9a46004f2"
+    },
+    {
+      "key": "17:3",
+      "file": "./assets/images/vocab/L17_04.jpg",
+      "bytes": 30789,
+      "sha256": "fa9f65986c0fc7f0c71e622550ff50d87fe371571950203b1d64ef0a1f5d1309"
+    },
+    {
+      "key": "17:4",
+      "file": "./assets/images/vocab/L17_05.jpg",
+      "bytes": 25775,
+      "sha256": "f3ff6d09907fe2415b6b1aab0e704be693f3ff3b2ae74d02a830a03f297b507e"
+    },
+    {
+      "key": "17:5",
+      "file": "./assets/images/vocab/L17_06.jpg",
+      "bytes": 26052,
+      "sha256": "a5c7ea1e25579d5c8d905076e6a70a1501fa2262442f1fddf5275aa57ee8db72"
+    },
+    {
+      "key": "17:6",
+      "file": "./assets/images/vocab/L17_07.jpg",
+      "bytes": 28253,
+      "sha256": "ea553910d7446a3960c4850272fa3e2d04331bf2eeef37cbc2384cafd192fdb2"
+    },
+    {
+      "key": "17:7",
+      "file": "./assets/images/vocab/L17_08.jpg",
+      "bytes": 27248,
+      "sha256": "5cef60a3fe31d3ce2ca1b81bf553e84e560f3d4504128120cbb1656e0d83429a"
+    },
+    {
+      "key": "17:8",
+      "file": "./assets/images/vocab/L17_09.jpg",
+      "bytes": 31291,
+      "sha256": "97b2f065401dcde5c28f6c8e19b80377d35f59c05065c716dc715b2755b36064"
+    },
+    {
+      "key": "17:9",
+      "file": "./assets/images/vocab/L17_10.jpg",
+      "bytes": 36368,
+      "sha256": "bb08c8c554df977b1d7b8f0b2ba27442a0f3c0800381090bd453187ce0fb5c48"
+    },
+    {
+      "key": "18:0",
+      "file": "./assets/images/vocab/L18_01.jpg",
+      "bytes": 27172,
+      "sha256": "21f6c8bcd9200fa4828552524eab11f23fc46f5bacbd0752d53059e06468b6c1"
+    },
+    {
+      "key": "18:1",
+      "file": "./assets/images/vocab/L18_02.jpg",
+      "bytes": 20028,
+      "sha256": "4802627db360cb39b2af7bc2b628477d3e0a2b522793118779802c16fdc9f248"
+    },
+    {
+      "key": "18:2",
+      "file": "./assets/images/vocab/L18_03.jpg",
+      "bytes": 26715,
+      "sha256": "7cc888ee3c5971d04edeb9e9d1669083928ff3e939fa0b7221305f530b066441"
+    },
+    {
+      "key": "18:3",
+      "file": "./assets/images/vocab/L18_04.jpg",
+      "bytes": 26767,
+      "sha256": "3220668be4a60b2872e0038d19f1d2728c5018fe00d2cfb291374fd6f9fc3841"
+    },
+    {
+      "key": "18:4",
+      "file": "./assets/images/vocab/L18_05.jpg",
+      "bytes": 31406,
+      "sha256": "a4f7b55693c4fdb433efc3db916f03797d654b3e50cf2055ae0be4759616d1ae"
+    },
+    {
+      "key": "18:5",
+      "file": "./assets/images/vocab/L18_06.jpg",
+      "bytes": 27988,
+      "sha256": "7752b25686f8372b098268914e3d420f9a9ad86b4457e13a2282d4c773fc9e23"
+    },
+    {
+      "key": "18:6",
+      "file": "./assets/images/vocab/L18_07.jpg",
+      "bytes": 21479,
+      "sha256": "dcfe2c7a9b25c8bce3829a2c9cfe6a3d307a1804fe9f013956f511a1d1b53fa3"
+    },
+    {
+      "key": "18:7",
+      "file": "./assets/images/vocab/L18_08.jpg",
+      "bytes": 21891,
+      "sha256": "3ff869ad7e1037fcc80a26064221ee9d0784d8cb7f5e4699094f7d98a395712c"
+    },
+    {
+      "key": "18:8",
+      "file": "./assets/images/vocab/L18_09.jpg",
+      "bytes": 27954,
+      "sha256": "705f79200136234b4a89e4ee552f844e07d26eacaedbf10cebdf8896651fbd1b"
+    },
+    {
+      "key": "18:9",
+      "file": "./assets/images/vocab/L18_10.jpg",
+      "bytes": 27085,
+      "sha256": "8c59fa4e4d0892d2f97c8a38c48bf7e8848da59b44a6bf5cae9504c39bd47c1c"
+    },
+    {
+      "key": "19:0",
+      "file": "./assets/images/vocab/L19_01.jpg",
+      "bytes": 26557,
+      "sha256": "69758f8448394a5f676b69785051731a866b13c44189522943addd90e9cd96ee"
+    },
+    {
+      "key": "19:1",
+      "file": "./assets/images/vocab/L19_02.jpg",
+      "bytes": 28986,
+      "sha256": "0e11b8397c77291800c9dc234853165f66926e06f155545c3542e49b7016ae8c"
+    },
+    {
+      "key": "19:2",
+      "file": "./assets/images/vocab/L19_03.jpg",
+      "bytes": 28708,
+      "sha256": "792b066ddfb899feaf2bcdd7236239b2d000dcd4da4e8c8e930098cf9dd92397"
+    },
+    {
+      "key": "19:3",
+      "file": "./assets/images/vocab/L19_04.jpg",
+      "bytes": 30511,
+      "sha256": "04d6eea6213d1c8896310d50bdc08bb0f7383a70b496a6e2b3b71e94cf12527f"
+    },
+    {
+      "key": "19:4",
+      "file": "./assets/images/vocab/L19_05.jpg",
+      "bytes": 26780,
+      "sha256": "afa6b3eb0e61b475134a002cbc03bf094b99b28e1c7015c0bd9d655435d6b1c4"
+    },
+    {
+      "key": "19:5",
+      "file": "./assets/images/vocab/L19_06.jpg",
+      "bytes": 26240,
+      "sha256": "ed64f47d477046abc71ffea879293c85b20c5df9feb588d8c88fd8d4703e464f"
+    },
+    {
+      "key": "19:6",
+      "file": "./assets/images/vocab/L19_07.jpg",
+      "bytes": 31833,
+      "sha256": "6446e979d5c1ca59a4257e9f559172053984012b7e1bf570ff22e1dca99e349c"
+    },
+    {
+      "key": "19:7",
+      "file": "./assets/images/vocab/L19_08.jpg",
+      "bytes": 31360,
+      "sha256": "b740f9fda68ddd1baeb704c1c85629cb36d79750d1112fe246d406c1d5e6631c"
+    },
+    {
+      "key": "19:8",
+      "file": "./assets/images/vocab/L19_09.jpg",
+      "bytes": 42299,
+      "sha256": "127957948ee33f0bd63ddf228f008e1d636cbc88f435eda9dd552eda1f534bbe"
+    },
+    {
+      "key": "19:9",
+      "file": "./assets/images/vocab/L19_10.jpg",
+      "bytes": 29228,
+      "sha256": "ec964c20dbe0a5c1570d494d9829ce8544b56e25148e696844a492d6582cd4b8"
+    },
+    {
+      "key": "20:0",
+      "file": "./assets/images/vocab/L20_01.jpg",
+      "bytes": 27461,
+      "sha256": "b675ce1cc791af032e63f506dc731574c4f20ba1111d2e35fed795ebe514685f"
+    },
+    {
+      "key": "20:1",
+      "file": "./assets/images/vocab/L20_02.jpg",
+      "bytes": 33206,
+      "sha256": "cf828c78488ae4e8ed55d5130a46ef0784bd4296534d40b16e1ac2c3e9d7cf78"
+    },
+    {
+      "key": "20:2",
+      "file": "./assets/images/vocab/L20_03.jpg",
+      "bytes": 25885,
+      "sha256": "d72355c260ccbbcd8a0fd82885155b1505a613197141fe7865da824f0c3ef9c7"
+    },
+    {
+      "key": "20:3",
+      "file": "./assets/images/vocab/L20_04.jpg",
+      "bytes": 28551,
+      "sha256": "4fd22ec4d51522304a5e51d4c345c0c0ff9eff99ed323d1a1cd86d055b50e3db"
+    },
+    {
+      "key": "20:4",
+      "file": "./assets/images/vocab/L20_05.jpg",
+      "bytes": 29087,
+      "sha256": "5ae50d13f68182a8b5ffdbe21d84bfd64b4ad78b3985b56e9594c3eba73ee325"
+    },
+    {
+      "key": "20:5",
+      "file": "./assets/images/vocab/L20_06.jpg",
+      "bytes": 17141,
+      "sha256": "392d8508c31475cb254ada797802e299a47eab87544076ad20bdcd30ecce92f4"
+    },
+    {
+      "key": "20:6",
+      "file": "./assets/images/vocab/L20_07.jpg",
+      "bytes": 29375,
+      "sha256": "7ecc49983c1e9f70fb76abea700d8c2abfee95b8df2f7bdd15346842a138d473"
+    },
+    {
+      "key": "20:7",
+      "file": "./assets/images/vocab/L20_08.jpg",
+      "bytes": 20443,
+      "sha256": "4443cfddc75cae2bcca27c1e3b442fcc66a0c4da4541a1b24bb64325c35479ac"
+    },
+    {
+      "key": "20:8",
+      "file": "./assets/images/vocab/L20_09.jpg",
+      "bytes": 28494,
+      "sha256": "6a81c8f7e5d475b5f6fa566668f4b60d7a3fe21ab02fd942aa925ca76ecfdc30"
+    },
+    {
+      "key": "20:9",
+      "file": "./assets/images/vocab/L20_10.jpg",
+      "bytes": 24385,
+      "sha256": "53a785812ce6dfde324878b46526c1aaee32549467b07f0a75efb5174fa7e869"
+    },
+    {
+      "key": "21:0",
+      "file": "./assets/images/vocab/L21_01.jpg",
+      "bytes": 20043,
+      "sha256": "e7315a0ab5b7452a252883590a77b05cdda011f618259c7bce293dc892b1f6dd"
+    },
+    {
+      "key": "21:1",
+      "file": "./assets/images/vocab/L21_02.jpg",
+      "bytes": 19126,
+      "sha256": "00652e4a458f1e94efa20f271cb18e7e556dd8bb2521855c96024f7da8a977d0"
+    },
+    {
+      "key": "21:2",
+      "file": "./assets/images/vocab/L21_03.jpg",
+      "bytes": 27857,
+      "sha256": "e3570327f1ae1a6c6e3e41025e7384eed0fa279adadaa69d29235f62ed472fe7"
+    },
+    {
+      "key": "21:3",
+      "file": "./assets/images/vocab/L21_04.jpg",
+      "bytes": 32670,
+      "sha256": "42cc695b74cf1dff9c80d39e74e0aae68e229312f501f77fcd757bfecd45afac"
+    },
+    {
+      "key": "21:4",
+      "file": "./assets/images/vocab/L21_05.jpg",
+      "bytes": 27834,
+      "sha256": "2150820985ff3233c8b0ba46ccb9772a59b9508d9708cf267ba5dcd2acf8b164"
+    },
+    {
+      "key": "21:5",
+      "file": "./assets/images/vocab/L21_06.jpg",
+      "bytes": 27766,
+      "sha256": "719840d87aaa5a593001b425ee8ca1bc6fef4b3f9598ef072fe012b0aef8350a"
+    },
+    {
+      "key": "21:6",
+      "file": "./assets/images/vocab/L21_07.jpg",
+      "bytes": 17584,
+      "sha256": "70aeda60ee40b810cfd1210690d165f8c64eb9151e21b7ff41aff0b4e767d2ec"
+    },
+    {
+      "key": "21:7",
+      "file": "./assets/images/vocab/L21_08.jpg",
+      "bytes": 24471,
+      "sha256": "52ee521245613ed09932924e699562dd6e5fd36a1753fd7b9f40552076aefc3d"
+    },
+    {
+      "key": "21:8",
+      "file": "./assets/images/vocab/L21_09.jpg",
+      "bytes": 31575,
+      "sha256": "371c64c24935b2549caafdf98079ff34704ee88d800dc2b9dfbac407f5953638"
+    },
+    {
+      "key": "21:9",
+      "file": "./assets/images/vocab/L21_10.jpg",
+      "bytes": 25791,
+      "sha256": "4fff4b4b96b4ae148128b0d5bef39444fa96dadf704e25840592c0d0bd2484e0"
+    },
+    {
+      "key": "22:0",
+      "file": "./assets/images/vocab/L22_01.jpg",
+      "bytes": 28501,
+      "sha256": "18253ec126abb6fc9c0a0457d30e04629310039747fdb7835d6841651c7324b2"
+    },
+    {
+      "key": "22:1",
+      "file": "./assets/images/vocab/L22_02.jpg",
+      "bytes": 26061,
+      "sha256": "661fe6d18dc7924b62ba12bb5774e9cfdc87f1355dd1a0fe6e5fb90542a31679"
+    },
+    {
+      "key": "22:2",
+      "file": "./assets/images/vocab/L22_03.jpg",
+      "bytes": 25413,
+      "sha256": "031e57a587a39370debdc84768ee3217f75ac4f2003cb1da22bd1ef2bbb2ea21"
+    },
+    {
+      "key": "22:3",
+      "file": "./assets/images/vocab/L22_04.jpg",
+      "bytes": 23222,
+      "sha256": "0cbc784431ee74ad595a32c7a4ab2528b290d1e20b863c29805d75ada912b5de"
+    },
+    {
+      "key": "22:4",
+      "file": "./assets/images/vocab/L22_05.jpg",
+      "bytes": 26352,
+      "sha256": "b0084edf9976e62c1c38de10e4562feb4fb75c6fdd69961ce97ae894937c68fc"
+    },
+    {
+      "key": "22:5",
+      "file": "./assets/images/vocab/L22_06.jpg",
+      "bytes": 27389,
+      "sha256": "c2b3a0b97831f3f164d159eda5ff5aa82cf975362ae616a894465210394f330b"
+    },
+    {
+      "key": "22:6",
+      "file": "./assets/images/vocab/L22_07.jpg",
+      "bytes": 33444,
+      "sha256": "b903477b3bdc7416b2de365eadcd08261beb0ab4de227a79a4612429538b603f"
+    },
+    {
+      "key": "22:7",
+      "file": "./assets/images/vocab/L22_08.jpg",
+      "bytes": 15670,
+      "sha256": "8171657d8cd51d5887e26910a5bd200cc2e6a68a0f919255f678aac9e5806981"
+    },
+    {
+      "key": "22:8",
+      "file": "./assets/images/vocab/L22_09.jpg",
+      "bytes": 27150,
+      "sha256": "9079cded49796f68d921902f10795a8a31f6a14350ab2b178d5cd42fad1fd8a4"
+    },
+    {
+      "key": "22:9",
+      "file": "./assets/images/vocab/L22_10.jpg",
+      "bytes": 21611,
+      "sha256": "17bb40025464bb02b3a8ff98a5412d0e43acd0fe580476eca1e5651ab29a0072"
+    },
+    {
+      "key": "23:0",
+      "file": "./assets/images/vocab/L23_01.jpg",
+      "bytes": 26455,
+      "sha256": "621edcc943da610cd60712352e1f3cbe279dbcc539759a47091f27f1ca7e65e0"
+    },
+    {
+      "key": "23:1",
+      "file": "./assets/images/vocab/L23_02.jpg",
+      "bytes": 23436,
+      "sha256": "2a53b5bb5d02d7e42faca0351a8fc1a2a1e5ba7a009dde08f50d9086ea262a21"
+    },
+    {
+      "key": "23:2",
+      "file": "./assets/images/vocab/L23_03.jpg",
+      "bytes": 26350,
+      "sha256": "1ec56645c59c849604ae35237d6502c16c1e85a0272fc3dc97be661ab7871e16"
+    },
+    {
+      "key": "23:3",
+      "file": "./assets/images/vocab/L23_04.jpg",
+      "bytes": 23282,
+      "sha256": "ffb9bdaaebe8274afbfd62912e60c6bd63bfac25c0439094fe41f8f5a196f5a5"
+    },
+    {
+      "key": "23:4",
+      "file": "./assets/images/vocab/L23_05.jpg",
+      "bytes": 27468,
+      "sha256": "985bc3c2f112b6cffd292f3c74ba5d02ad2c85d7768d857c90612f00bf025579"
+    },
+    {
+      "key": "23:5",
+      "file": "./assets/images/vocab/L23_06.jpg",
+      "bytes": 30917,
+      "sha256": "23d5a5381ba40552b18a50159de8c0574581a3d5b25b0a868f1b0e345be56a92"
+    },
+    {
+      "key": "23:6",
+      "file": "./assets/images/vocab/L23_07.jpg",
+      "bytes": 26393,
+      "sha256": "93b8152da152d12e78ba1e8ab4f9339703c33af8c0d673ccedf5dfb4c88053a4"
+    },
+    {
+      "key": "23:7",
+      "file": "./assets/images/vocab/L23_08.jpg",
+      "bytes": 30077,
+      "sha256": "984723035ee1264ea30ab053cf4b40cce5063452db5bc34bf6ebab99569a644e"
+    },
+    {
+      "key": "23:8",
+      "file": "./assets/images/vocab/L23_09.jpg",
+      "bytes": 31106,
+      "sha256": "c88a284ebbc9e6aa1f5822eb54b40a1d73fa29efa1ad891da520bde8021b249e"
+    },
+    {
+      "key": "23:9",
+      "file": "./assets/images/vocab/L23_10.jpg",
+      "bytes": 22786,
+      "sha256": "0cd80a9fa3c57632c844d1b7cee3c4d77b8cbd964c269cd834062074c8f976bd"
+    },
+    {
+      "key": "24:0",
+      "file": "./assets/images/vocab/L24_01.jpg",
+      "bytes": 27627,
+      "sha256": "31496ce342e7bebf421425a4f92cccab2085b67a004fd4acb5339228b92a00af"
+    },
+    {
+      "key": "24:1",
+      "file": "./assets/images/vocab/L24_02.jpg",
+      "bytes": 24449,
+      "sha256": "4368befbdf8403d86d7887e7e0ada906b9c65dd882f7a2fd4d740e5524a11a34"
+    },
+    {
+      "key": "24:2",
+      "file": "./assets/images/vocab/L24_03.jpg",
+      "bytes": 34625,
+      "sha256": "c510b8a66133f50ea6b9b321f634dd087f313026a789f012362900d6c8947c70"
+    },
+    {
+      "key": "24:3",
+      "file": "./assets/images/vocab/L24_04.jpg",
+      "bytes": 35611,
+      "sha256": "5a09c305b3f3772e4884c4cd2ea927554dd3981f8a85513769bd2c92e1e8e90f"
+    },
+    {
+      "key": "24:4",
+      "file": "./assets/images/vocab/L24_05.jpg",
+      "bytes": 25223,
+      "sha256": "266717710d99c8874dc00d647d58a7c6260226323cf8b1cb1d74cc73152c9eda"
+    },
+    {
+      "key": "24:5",
+      "file": "./assets/images/vocab/L24_06.jpg",
+      "bytes": 22770,
+      "sha256": "a28113507a1444ff27cb5bdea3f0256af0e772e20cf3dd802c5a553404bfaf29"
+    },
+    {
+      "key": "24:6",
+      "file": "./assets/images/vocab/L24_07.jpg",
+      "bytes": 29099,
+      "sha256": "955106273ecfd8ec5805803fed3c83be1c7a419b10195e6a996e98649e693415"
+    },
+    {
+      "key": "24:7",
+      "file": "./assets/images/vocab/L24_08.jpg",
+      "bytes": 26929,
+      "sha256": "f7b577c6eb7914215f53ab9128d67dc82e371a40953267b4682181aaa45f8499"
+    },
+    {
+      "key": "24:8",
+      "file": "./assets/images/vocab/L24_09.jpg",
+      "bytes": 30875,
+      "sha256": "efb1a373f9b58dfd1387ba3d17b2ef9d3938fde6c46041aa759f55f99ce1c07a"
+    },
+    {
+      "key": "24:9",
+      "file": "./assets/images/vocab/L24_10.jpg",
+      "bytes": 27377,
+      "sha256": "9155fb52b8aed38be34b3b9a012d7d122624fef361bb39a7d7178e9939e4977b"
+    },
+    {
+      "key": "25:0",
+      "file": "./assets/images/vocab/L25_01.jpg",
+      "bytes": 25638,
+      "sha256": "895ff8c683ab96f5eee2dc4b9d0ca19ad1aa103c736724572f515f7015d81ddc"
+    },
+    {
+      "key": "25:1",
+      "file": "./assets/images/vocab/L25_02.jpg",
+      "bytes": 26482,
+      "sha256": "086f73c01a5b8769371c7438113d5c320c05f3e13931fad356b02ecb8fac4c3d"
+    },
+    {
+      "key": "25:2",
+      "file": "./assets/images/vocab/L25_03.jpg",
+      "bytes": 26438,
+      "sha256": "b6edb3261b1affbb18ec736f4858e776de4d0ae27ea0aa5286e2761b756ab4e8"
+    },
+    {
+      "key": "25:3",
+      "file": "./assets/images/vocab/L25_04.jpg",
+      "bytes": 25865,
+      "sha256": "0c755ce2ce1db55da53730da5f77d78801641f71059ba6fc772e019c705f8c60"
+    },
+    {
+      "key": "25:4",
+      "file": "./assets/images/vocab/L25_05.jpg",
+      "bytes": 34386,
+      "sha256": "c9a92494ab5f72a5f50ed87d16790783f3c383fe9f4e2590c4b1f58e873e1ac5"
+    },
+    {
+      "key": "25:5",
+      "file": "./assets/images/vocab/L25_06.jpg",
+      "bytes": 29269,
+      "sha256": "f4931f270d8782e4efbfdee092d6f2fea6d87135d6f0d47b4c4e92cdcca06413"
+    },
+    {
+      "key": "25:6",
+      "file": "./assets/images/vocab/L25_07.jpg",
+      "bytes": 21671,
+      "sha256": "9f906d5d5965a2ed0b0770c89f53bce19f8137735d0168aaa02ec6cc58e3faa3"
+    },
+    {
+      "key": "25:7",
+      "file": "./assets/images/vocab/L25_08.jpg",
+      "bytes": 26009,
+      "sha256": "9968a08baebeb14f8f39d2b99e79582714a366d1e0ee354509e9edbbcda809fd"
+    },
+    {
+      "key": "25:8",
+      "file": "./assets/images/vocab/L25_09.jpg",
+      "bytes": 19915,
+      "sha256": "d912588ed70c074b48293b244a520982f41cb8f93dabeefd6bf710aaa5af98d9"
+    },
+    {
+      "key": "25:9",
+      "file": "./assets/images/vocab/L25_10.jpg",
+      "bytes": 30844,
+      "sha256": "722756045dc6fdda5e4bdb9dff1c599d2b94c21edd8f0b1ec967504962b19510"
+    },
+    {
+      "key": "26:0",
+      "file": "./assets/images/vocab/L26_01.jpg",
+      "bytes": 39881,
+      "sha256": "afca98e18da7cc4bdb32b80901e4a78ea4902cc326085b94e997c160000f4e9f"
+    },
+    {
+      "key": "26:1",
+      "file": "./assets/images/vocab/L26_02.jpg",
+      "bytes": 34144,
+      "sha256": "e52a1feb11505b3796e98d259c09e81f534ddb8cbf1eb3be4c786aa1cb74b349"
+    },
+    {
+      "key": "26:2",
+      "file": "./assets/images/vocab/L26_03.jpg",
+      "bytes": 30987,
+      "sha256": "c80c330e362a2e363e8b764eb50e949f8c17dfa0840bf298512ff854efce52f0"
+    },
+    {
+      "key": "26:3",
+      "file": "./assets/images/vocab/L26_04.jpg",
+      "bytes": 27132,
+      "sha256": "d516a6df40ab5df266b23f22bf93034f7de499076a39d6c587d2b0f5164f230a"
+    },
+    {
+      "key": "26:4",
+      "file": "./assets/images/vocab/L26_05.jpg",
+      "bytes": 28683,
+      "sha256": "31b520538c11535b44c698766f152594cfaeadafcbc82af6e579745264f14c75"
+    },
+    {
+      "key": "26:5",
+      "file": "./assets/images/vocab/L26_06.jpg",
+      "bytes": 32886,
+      "sha256": "4c9c53fdcc5df935f6881c526394bb60b78601b91a1f58ed660ad4a7cc4fab0a"
+    },
+    {
+      "key": "26:6",
+      "file": "./assets/images/vocab/L26_07.jpg",
+      "bytes": 45662,
+      "sha256": "632f2f39dc699d2e9af98dc9ac5a32a452127ea7151291fc06b4ffa319e4a613"
+    },
+    {
+      "key": "26:7",
+      "file": "./assets/images/vocab/L26_08.jpg",
+      "bytes": 21912,
+      "sha256": "c4628cb66148fcb66b867cfb22918ac1d552c5453fbb52a50e9707d1f3a85618"
+    },
+    {
+      "key": "26:8",
+      "file": "./assets/images/vocab/L26_09.jpg",
+      "bytes": 21862,
+      "sha256": "f6d18adb844dcc1dbda98fc5085d10ef30330c655b60e1f3ffd461a63f637e98"
+    },
+    {
+      "key": "26:9",
+      "file": "./assets/images/vocab/L26_10.jpg",
+      "bytes": 31150,
+      "sha256": "4beaea4b9a054cc231fd94e7e9d3c747cb86bdce95ef8d24ab5e06edeb16f800"
+    },
+    {
+      "key": "27:0",
+      "file": "./assets/images/vocab/L27_01.jpg",
+      "bytes": 40663,
+      "sha256": "18e3a9b5e3b169021fca1fa0de8e8c60e9e1df0ab8bcaf7efea020d6a9a43d0e"
+    },
+    {
+      "key": "27:1",
+      "file": "./assets/images/vocab/L27_02.jpg",
+      "bytes": 34305,
+      "sha256": "a4f7bd808c2cc0cda5a866faf2dd669d4bae2c0ae1c45b62823913cfeea9755f"
+    },
+    {
+      "key": "27:2",
+      "file": "./assets/images/vocab/L27_03.jpg",
+      "bytes": 30320,
+      "sha256": "5b92c92627e18de11c69a3df9d1bb51254914e2df7accb14768267cbb3acfc6e"
+    },
+    {
+      "key": "27:3",
+      "file": "./assets/images/vocab/L27_04.jpg",
+      "bytes": 20994,
+      "sha256": "bc7207b9a1b852b22f0470486e96c952672602f3d68a203114f618fda68966be"
+    },
+    {
+      "key": "27:4",
+      "file": "./assets/images/vocab/L27_05.jpg",
+      "bytes": 21879,
+      "sha256": "a7bc2dec1dbe9e9e1a6d8c5f6d187ec16ccdba56827356ed41198b7290d076b2"
+    },
+    {
+      "key": "27:5",
+      "file": "./assets/images/vocab/L27_06.jpg",
+      "bytes": 32893,
+      "sha256": "d7b33ed0790ff70f8c1020153f499b0bc7c29395201375a38f100401632836bb"
+    },
+    {
+      "key": "27:6",
+      "file": "./assets/images/vocab/L27_07.jpg",
+      "bytes": 29351,
+      "sha256": "51d939979d68e55699ceff8f05e16de24409912340dacadd36e57df6299d4334"
+    },
+    {
+      "key": "27:7",
+      "file": "./assets/images/vocab/L27_08.jpg",
+      "bytes": 41285,
+      "sha256": "251b968f57c10f56c7d8d102ff035b3e45d0d0ab66bf5ab4f509f2c75738f02b"
+    },
+    {
+      "key": "27:8",
+      "file": "./assets/images/vocab/L27_09.jpg",
+      "bytes": 27529,
+      "sha256": "f47ff554109cf915f9e32d2b1496ada8a34a36978a65d633e6cb1063438e232c"
+    },
+    {
+      "key": "27:9",
+      "file": "./assets/images/vocab/L27_10.jpg",
+      "bytes": 35227,
+      "sha256": "9b051610cc8d7e234f58d6fe0d9389e9749b3b97e667f0baf518b78550a186ac"
+    },
+    {
+      "key": "28:0",
+      "file": "./assets/images/vocab/L28_01.jpg",
+      "bytes": 27228,
+      "sha256": "94525e17bd4464f3891ffee756c89b03f72a36bb799c0882ec1e239949f5e69f"
+    },
+    {
+      "key": "28:1",
+      "file": "./assets/images/vocab/L28_02.jpg",
+      "bytes": 33119,
+      "sha256": "78d5f3f631fb72d61e1e928afbd8fc4194cd6f8fe2b270afa905434c6677fa41"
+    },
+    {
+      "key": "28:2",
+      "file": "./assets/images/vocab/L28_03.jpg",
+      "bytes": 31918,
+      "sha256": "1f3ed6b2609a9c3f929fe17afa6553b12f350567822abfd0c9ff6a2266ec494e"
+    },
+    {
+      "key": "28:3",
+      "file": "./assets/images/vocab/L28_04.jpg",
+      "bytes": 28860,
+      "sha256": "a8d11d4971052478ddfccd5d7e0cbf65e1129f411634e611ee9b1a9203f179cf"
+    },
+    {
+      "key": "28:4",
+      "file": "./assets/images/vocab/L28_05.jpg",
+      "bytes": 44533,
+      "sha256": "8e86c6446b352030ac8b9aa9c483fd1e04353c4130d41080b17632b28df568aa"
+    },
+    {
+      "key": "28:5",
+      "file": "./assets/images/vocab/L28_06.jpg",
+      "bytes": 26868,
+      "sha256": "cadd26da1febbfe25afa82129eb60d7d8f4c998d78e33d244c3ca2c266943a89"
+    },
+    {
+      "key": "28:6",
+      "file": "./assets/images/vocab/L28_07.jpg",
+      "bytes": 38247,
+      "sha256": "03adc6b659fcde3320a31402f3cd586359e13623199794d8d4fe933a2962033f"
+    },
+    {
+      "key": "28:7",
+      "file": "./assets/images/vocab/L28_08.jpg",
+      "bytes": 29043,
+      "sha256": "89ac8846becf1de9221e6044e43d2071e5bbbb3f0025e3c04944d61e554603ea"
+    },
+    {
+      "key": "28:8",
+      "file": "./assets/images/vocab/L28_09.jpg",
+      "bytes": 24043,
+      "sha256": "63730b313c849d3b780bb46f67e3a7fb9f78a5297bcee69a75d8fe0342d5b4f4"
+    },
+    {
+      "key": "28:9",
+      "file": "./assets/images/vocab/L28_10.jpg",
+      "bytes": 33507,
+      "sha256": "791d34b9c1f9e99025aa0941c4794590ccaa1a1b394ec35f00dc4ed505e0f4c9"
+    },
+    {
+      "key": "29:0",
+      "file": "./assets/images/vocab/L29_01.jpg",
+      "bytes": 25372,
+      "sha256": "63671fe8857c06cb31be45455d2a13d45a3cc80ea366fac07448bd5ee6c7cece"
+    },
+    {
+      "key": "29:1",
+      "file": "./assets/images/vocab/L29_02.jpg",
+      "bytes": 23085,
+      "sha256": "12c182bcb36c524c2fb0339677cff8c61a1572d1fe3a743213421d5cf818ab85"
+    },
+    {
+      "key": "29:2",
+      "file": "./assets/images/vocab/L29_03.jpg",
+      "bytes": 30397,
+      "sha256": "77aef7815761b1f05de31cc11c0df5d5e687d19a59e2a07827f071d7315e7594"
+    },
+    {
+      "key": "29:3",
+      "file": "./assets/images/vocab/L29_04.jpg",
+      "bytes": 30008,
+      "sha256": "c5e99ae98c64dd790779f648c11efe6c9dbffd53fdc87d09cddb56d0df557bb8"
+    },
+    {
+      "key": "29:4",
+      "file": "./assets/images/vocab/L29_05.jpg",
+      "bytes": 26214,
+      "sha256": "459842b78dee4f3241131b639e2ae4e99ad7f1489424e46bc9a43262f42dfde7"
+    },
+    {
+      "key": "29:5",
+      "file": "./assets/images/vocab/L29_06.jpg",
+      "bytes": 23505,
+      "sha256": "aebeb0edb0c5a038574a2740856c4a2879d4b102826912315116215e69896909"
+    },
+    {
+      "key": "29:6",
+      "file": "./assets/images/vocab/L29_07.jpg",
+      "bytes": 40581,
+      "sha256": "168eb3eadf3b4fda3519a51f68e0e248225068da0b0fc37c23977208e43afc78"
+    },
+    {
+      "key": "29:7",
+      "file": "./assets/images/vocab/L29_08.jpg",
+      "bytes": 29298,
+      "sha256": "b426d5266fc4daa90f9f0303e49d31bcd385a20a3fe57b6c30cd8114ddafc60f"
+    },
+    {
+      "key": "29:8",
+      "file": "./assets/images/vocab/L29_09.jpg",
+      "bytes": 33220,
+      "sha256": "a6e270f782b158964c41a1b7ec9787ba50743970fbcc9a4d3b9e1713ff0e0510"
+    },
+    {
+      "key": "29:9",
+      "file": "./assets/images/vocab/L29_10.jpg",
+      "bytes": 31160,
+      "sha256": "dd58b74189ec377965cb82d1084c5c6bd9d8267cd98a947f3c6f486f79d4d42d"
+    },
+    {
+      "key": "30:0",
+      "file": "./assets/images/vocab/L30_01.jpg",
+      "bytes": 23666,
+      "sha256": "13909d0268654e5c86767305f4770ff7c52a644c2bd97e8a50180139ce6bc43b"
+    },
+    {
+      "key": "30:1",
+      "file": "./assets/images/vocab/L30_02.jpg",
+      "bytes": 31063,
+      "sha256": "50358d4c6b6ace31c6bf5c16e8fcbb59948817894c408cc4bc4bb5aa3cc98b1d"
+    },
+    {
+      "key": "30:2",
+      "file": "./assets/images/vocab/L30_03.jpg",
+      "bytes": 27522,
+      "sha256": "6035ecf75be74b4f90a8d6ac07eace913c1b80fa1d8f5c1973d464c3204fac8a"
+    },
+    {
+      "key": "30:3",
+      "file": "./assets/images/vocab/L30_04.jpg",
+      "bytes": 25270,
+      "sha256": "1c3a1a790ca5f338a4508003c36b8a7e88d7b2c2834678b7058e967e792792b0"
+    },
+    {
+      "key": "30:4",
+      "file": "./assets/images/vocab/L30_05.jpg",
+      "bytes": 26407,
+      "sha256": "fd118b3071a532ab3d8e781e19441b6947274b35e3dd528a5f3afa81271bd625"
+    },
+    {
+      "key": "30:5",
+      "file": "./assets/images/vocab/L30_06.jpg",
+      "bytes": 23285,
+      "sha256": "90c355967e20ea56da5bf16ad4163b642a2a6cf94e6fc2bb6ff9017c8d3765d8"
+    },
+    {
+      "key": "30:6",
+      "file": "./assets/images/vocab/L30_07.jpg",
+      "bytes": 28419,
+      "sha256": "a563b3cee240dc78a19db164529af6700550d0a751011819ac51edea724e4772"
+    },
+    {
+      "key": "30:7",
+      "file": "./assets/images/vocab/L30_08.jpg",
+      "bytes": 35875,
+      "sha256": "d55e25044330bf28051a7c551f12215abae18973e7adbd9e97c8708482369850"
+    },
+    {
+      "key": "30:8",
+      "file": "./assets/images/vocab/L30_09.jpg",
+      "bytes": 22939,
+      "sha256": "941055b887dd938724e328c3c6cbe358e59bc2f1a84a8112f1c46201170add9e"
+    },
+    {
+      "key": "30:9",
+      "file": "./assets/images/vocab/L30_10.jpg",
+      "bytes": 21387,
+      "sha256": "0ac58579f5a6ddd5658bf9b932c2f2ca0887015c94daf1c9cc200c8724660365"
+    }
+  ]
+}
