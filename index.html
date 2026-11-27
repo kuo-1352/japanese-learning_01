@@ -5,8 +5,10 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#17213a">
   <meta name="description" content="30 課日語自學路線：單字圖片、文法、情境朗讀、測驗與遊戲。">
-  <title>日本語自學路線｜GitHub Pages 修正版</title>
-  <link rel="stylesheet" href="./assets/css/style.css?v=20261127-1">
+  <title>日本語自學路線｜GitHub Project Pages 路徑修正版</title>
+  <!-- GitHub Project Pages base path: https://kuo-1352.github.io/japanese-learning/ -->
+  <base href="/japanese-learning/">
+  <link id="siteStyles" rel="stylesheet" href="/japanese-learning/assets/css/style.css?v=20261127-2">
   <script>
   (function(){
     function show(title, detail){
@@ -19,11 +21,11 @@
     window.__showBootError=show;
     window.addEventListener('error',function(e){
       if(e.target && (e.target.tagName==='SCRIPT'||e.target.tagName==='LINK'||e.target.tagName==='IMG')){
-        show('檔案載入失敗',e.target.src||e.target.href||'未知檔案');
+        show('檔案載入失敗', (e.target.src||e.target.href||'未知檔案')+'\n請確認該檔案已上傳到 repository 根目錄下的 assets 資料夾。');
       } else if(e.error) show('JavaScript 執行錯誤',e.error.stack||e.message);
     },true);
     window.addEventListener('unhandledrejection',function(e){show('未處理的執行錯誤',String(e.reason||''));});
-    setTimeout(function(){if(!window.__APP_READY__)show('網站尚未完成載入','請確認 assets/css、assets/js、assets/images 三個資料夾都已完整上傳。');},15000);
+    setTimeout(function(){if(!window.__APP_READY__)show('網站尚未完成載入','目前網址：'+location.href+'\n預期基底：/japanese-learning/\n請確認 assets/css、assets/js、assets/images 三個資料夾都已完整上傳。');},15000);
   })();
   </script>
 </head>
@@ -34,8 +36,8 @@
 </main><button class="assistant" onclick="toggleAssistant()">問</button><aside class="panel" id="panel"><div class="panel-head"><b>課程助理</b><button onclick="toggleAssistant()">×</button></div><div class="log" id="log"><div class="msg bot">可問「Day 3 有哪些課？」、「Lesson 10 學什麼？」或「我目前進度」。</div></div><form class="ask" onsubmit="event.preventDefault();ask()"><input id="askInput" placeholder="輸入課程問題"><button>送出</button></form></aside><footer class="footer"><div class="shell">課程設計：Day 是排程容器，Lesson 是獨立教材單位。每課保留完整單字與文法；299 張核心詞卡保留離線 JPEG 圖片；每課依完整形態表拆成多個必要文法點，顏色功能有固定圖例，並建立覆蓋單字、每個文法點與情境句的專屬問答庫。遊戲使用輪替牌組，同模式題庫走完前不重複同題。共 15 Day／30 Lesson；每個 JLPT 級別 6 課。JLPT 里程碑不是通過保證。所有進度、XP 與成就只保存在此瀏覽器。</div></footer><div id="toast" style="position:fixed;left:50%;bottom:20px;transform:translate(-50%,100px);background:var(--ink);color:white;padding:10px 15px;border-radius:10px;transition:.2s;z-index:99"></div>
   <noscript><div class="runtime-error"><b>此網站需要 JavaScript</b><code>請在瀏覽器設定中啟用 JavaScript 後重新整理。</code></div></noscript>
   <div id="runtimeError" class="runtime-error" hidden></div>
-  <script src="./assets/js/images.js?v=20261127-1" defer></script>
-  <script src="./assets/js/lessons.js?v=20261127-1" defer></script>
-  <script src="./assets/js/app.js?v=20261127-1" defer></script>
+  <script src="/japanese-learning/assets/js/images.js?v=20261127-2" defer></script>
+  <script src="/japanese-learning/assets/js/lessons.js?v=20261127-2" defer></script>
+  <script src="/japanese-learning/assets/js/app.js?v=20261127-2" defer></script>
 </body>
 </html>
